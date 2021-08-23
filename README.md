@@ -39,7 +39,7 @@ IoT based smart Lock V2.0    ▶️  []
 
 <br  />
 
-||==========================================================================================||  
+||==========================================================================||  
 🔗 *Important Links* 🔗  
 
 ⏩  Info about Telegram Bots  -  https://core.telegram.org/bots  
@@ -51,7 +51,7 @@ How to Create Telegram Bot ?    ⏩  https://youtu.be/bmerNhPUTBg?t=498
 <br  />
 How to Get your Telegram User ID ?        ⏩  https://youtu.be/bmerNhPUTBg?t=626  
 
-||===========================================================================================||
+||==========================================================================||
 
 Libraries Used  
   
