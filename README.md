@@ -46,10 +46,12 @@ IoT based smart Lock V2.0    ▶️  [https://youtu.be/X8uOJ63XOb8]
 
 ⏩  About Nextion Display and Download IDE -  https://nextion.tech/   
 
-<br  />
-How to Create Telegram Bot ?    ⏩  https://youtu.be/bmerNhPUTBg?t=498  
-<br  />
-How to Get your Telegram User ID ?        ⏩  https://youtu.be/bmerNhPUTBg?t=626  
+📌 How to add ESP32 core into an Arduino IDE ?  - ⏩  https://youtu.be/7fmgDn_1_cY  
+📌 How to Get started with Nextion Display ?  - ⏩  https://youtu.be/0qi0jAYm-DI?t=345  
+📌 How to Install Telegram App ?  -  ⏩  https://youtu.be/bmerNhPUTBg?t=437  
+📌 How to Create Telegram Bot ?  - ⏩  https://youtu.be/bmerNhPUTBg?t=500  
+📌 How to Get your Telegram Chat ID ?  - ⏩   https://youtu.be/bmerNhPUTBg?t=626  
+📌 How to Install and Configure XAMPP ?  - ⏩   https://youtu.be/-f8N4FEQWyY  
 
 ||==========================================================================||
 
