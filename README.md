@@ -6,15 +6,15 @@
 
 📷 About Project -  
 
-🚩   In this project we've build IoT based smart lock which have 4 layers of access. RFID + Fingerprint + PIN + OTP.  
+🚩   In this project we've build IoT based smart lock which have 4 layers of access. RFID + PIN + Fingerprint + OTP.  
 
-🚩   This Project is further modification (Version 2.0) of the last project.  
+🚩   We have slightly upgraded our previous version of the project. In this version we are going to add one more accessibility layer. That is biometric, means, we will add fingerprint based authentication.  
 
-🚩   We’ve also implemented Data logging. Valid Entry through door will be recorded in Website.  
+🚩   Also we are going to use different MCU development Board. In version 1 we have used Particle Photon Board, but in this project we will use ESP32 development board.  
 
-🚩   Here we have used ESP32 Development Board.   
+🚩   So now, if user want to unlock this lock, then he or she should have Valid RFID, Fingerprint, PIN and OTP, means one time password.  
 
-🚩   We've used Telegram BOT API to send the OTP to Telegram App of user.  
+🚩   Also we have programmed this lock system to keep record data of user entries with user name and timestamp. This data will recorded on our dedicated my S.Q.L database which is hosted on our webserver, hence the system Administrator can login to that web portal and, keep track of how many time this lock got opened.  
 
 🚩   Nextion Touchscreen HMI Display is used for interacting with this door lock.  
 
@@ -35,7 +35,7 @@
 
 🌐 YouTube Video Links -  
 
-IoT based smart Lock V2.0    ▶️  []  
+IoT based smart Lock V2.0    ▶️  [https://youtu.be/X8uOJ63XOb8]  
 
 <br  />
 
